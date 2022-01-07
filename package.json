@@ -1,0 +1,19 @@
+{
+  "name": "bot_sgs",
+  "version": "1.0.0",
+  "description": "sgs discord bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bot",
+    "sgs",
+    "discord"
+  ],
+  "author": "TeezZy",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.5.0"
+  }
+}
